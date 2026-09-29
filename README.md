@@ -11,6 +11,5 @@ An automated CLI application and SDK interface built with Python designed to fet
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/oussamakarloss/gibwork-task-filter.git](https://github.com/oussamakarloss/gibwork-task-filter.git)
-   cd gibwork-task-filter
+   git clone https://github.com/oussamakarloss/Python-CLI-tool-to-efficiently-filter-and-display-high-value-technical-tasks-using-the-Gibwork-SDK.git
+cd Python-CLI-tool-to-efficiently-filter-and-display-high-value-technical-tasks-using-the-Gibwork-SDK
